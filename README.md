@@ -16,7 +16,7 @@
 
 ## LINK TO PLAY:
 
-[![forthebadge](https://user-images.githubusercontent.com/86726474/152202898-9a1a4f65-3b9f-4b23-965c-1f6d9f90cdea.svg)](https://simmer.io/@bartu/nebula-warrior)
+[<img src="https://cms.simmer.io/content/images/2019/08/simmer-badge-super-high-resolution-2.png" width=200px>](https://simmer.io/@bartu/nebula-warrior)
 
 ## CREDITS:
 
