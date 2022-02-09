@@ -18,6 +18,8 @@
 
 [<img src="https://cms.simmer.io/content/images/2019/08/simmer-badge-super-high-resolution-2.png" width=200px>](https://simmer.io/@bartu/nebula-warrior)
 
+[<img src="https://static.itch.io/images/badge.svg" width=200px>](https://bartusivaci.itch.io/nebula-warrior)
+
 ## CREDITS:
 
 * MAIN MENU MUSIC - SketchyLogic
